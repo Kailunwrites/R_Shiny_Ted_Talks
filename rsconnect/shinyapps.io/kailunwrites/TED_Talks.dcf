@@ -1,0 +1,13 @@
+name: TED_Talks
+title: TED_Talks
+username:
+account: kailunwrites
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1784922
+bundleId: 2787159
+url: https://kailunwrites.shinyapps.io/TED_Talks/
+when: 1581291776.86173
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Ken_Education_Creativity.txt|ted_images.png
