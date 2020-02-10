@@ -5,9 +5,9 @@ account: kailunwrites
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 1784922
-bundleId: 2787159
+bundleId: 2789517
 url: https://kailunwrites.shinyapps.io/TED_Talks/
-when: 1581291776.86173
+when: 1581357497.3324
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: Ken_Education_Creativity.txt|ted_images.png
+ignoredFiles: text/Ken_Education_Creativity.txt|text/Niels_Sitting_Chair.txt
